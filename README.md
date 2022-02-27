@@ -45,7 +45,7 @@ Santiago Mendoza, Edad 30, Dueño de la concesionaria Mendoza Motors. Santiago e
 
 **Necesidades:** Más tiempo para otras actividades fuera del trabajo. Necesita personas calificadas a su alrededor. Requiere de una familia para sentirse completo.
 
-![Tux, the Linux mascot](/assets/images/tux.png)
+![Buyer Persona - Khisus19](https://github.com/khisus19/LaunchX-PrimeraSemana/blob/master/Buyer%20Persona%20-%20Santiago%20Mendoza.png)
 
 ## Público Objetivo:
 
@@ -80,7 +80,7 @@ Santiago Mendoza, Edad 30, Dueño de la concesionaria Mendoza Motors. Santiago e
 - Son activos en las redes sociales. 
 - Les gusta el orden y quieren estar en control en todos los aspectos de su vida.
 
-![Público Objetivo](https://github.com/khisus19/LaunchX-PrimeraSemana/blob/master/Publico%20Objetivo.png)
+![Público Objetivo - Khisus19](https://github.com/khisus19/LaunchX-PrimeraSemana/blob/master/Publico%20Objetivo.png)
 
 ### User Experience - Wireframes
 
