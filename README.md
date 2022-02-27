@@ -84,3 +84,16 @@ Santiago Mendoza, Edad 30, Dueño de la concesionaria Mendoza Motors. Santiago e
 
 ### User Experience - Wireframes
 
+Por falta de tiempo solo hice 4 screens :)
+
+![Ux 1](https://github.com/khisus19/LaunchX-PrimeraSemana/blob/master/UX/Abogabot%20-%20UX%20Wireframe_UX%201.jpg)
+![Ux 2](https://github.com/khisus19/LaunchX-PrimeraSemana/blob/master/UX/Abogabot%20-%20UX%20Wireframe_UX%202.jpg)
+![Ux 3](https://github.com/khisus19/LaunchX-PrimeraSemana/blob/master/UX/Abogabot%20-%20UX%20Wireframe_UX%203.jpg)
+![Ux 4](https://github.com/khisus19/LaunchX-PrimeraSemana/blob/master/UX/Abogabot%20-%20UX%20Wireframe_UX%204.jpg)
+
+## User Interface
+
+Igual, solo 4 screens
+
+
+
