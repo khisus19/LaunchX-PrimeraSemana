@@ -80,7 +80,7 @@ Santiago Mendoza, Edad 30, Dueño de la concesionaria Mendoza Motors. Santiago e
 - Son activos en las redes sociales. 
 - Les gusta el orden y quieren estar en control en todos los aspectos de su vida.
 
-![Público Objetivo](Publico Objetivo.png)
+![Público Objetivo](https://github.com/khisus19/LaunchX-PrimeraSemana/blob/master/Publico%20Objetivo.png)
 
 ### User Experience - Wireframes
 
